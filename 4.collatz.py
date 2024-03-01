@@ -3,7 +3,6 @@
 # multiply it by three and add one.
 #Have the program end if the current value is one. Example $ python collatz.py Please enter a positive integer: 10  10 5 16 8 4 2 1
 
-# Entering a positive integer by user.
 n = []
 n = int(input("Please enter a number: "))
 
