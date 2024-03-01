@@ -1,4 +1,4 @@
-# Bank account numbers can stored as 10 character strings, for security reasons some applications only display the last 4 characters 
+# Bank account numbers can stored as 10 character number, for security reasons some applications only display the last 4 characters 
 # (with the other characters replaced with Xs).
 # Prog that reads in a 10 character account number and outputs the account number with only the last 4 digits showing 
 #(and the first 6 digits replaced with Xs).
