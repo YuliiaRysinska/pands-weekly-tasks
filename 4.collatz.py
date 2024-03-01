@@ -5,7 +5,7 @@
 
 # Entering a positive integer by user.
 n = []
-n = int(input("Please enter a positive integer: "))
+n = int(input("Please enter a positive number: "))
 
 # The condition for this loop is n != 1, so it will continue until n is 1, which will make the condition false. 
 while n != 1:
